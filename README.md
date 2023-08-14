@@ -1,8 +1,5 @@
 # COGS108: Group 009 Project
--   Ava Hamedi
--   Marc Mendoza
--   Jonathan Park
--   Daniel Renteria
+-   Removed Other Names for Privacy Reasons
 -   Siena Rivera
 
 ## Overview of this Project:
@@ -11,18 +8,6 @@
 Did California Air Quality significantly improve in different areas due to the COVID-19 Pandemic and the change in car traffic volume?
 ### Hypothesis
 _We hypothesize that COVID-19 has had an overall good effect from 2020-2022 on Air Quality based on AQI (Air Quality Index). We think that the pandemic has led to more WFH (work-from-home) and remote opportunities for the general population of California, thus changing the amount of air pollution caused by a reduction in car traffic via commuting. We acknowledge that there may be some confounding variables including regional industries, population per capita, and lockdown restrictions_
-
-## Important Dates/Information
-### Project Proposal: 01/28
-- Done? Yes
-### Data Checkpoint: 02/11
-- Done? Yes
-### EDA Checkpoint: 02/25
-- Done? Yes
-### Final Project/Video: 03/14
-- Done? Yes!!!!!!!
-
-### MAKE SURE TO FORK THIS PROJECT IF YOU WANT IT :)
 
 ## Ethics & Privacy
 
